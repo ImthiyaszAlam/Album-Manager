@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Soulful Nights",
+    "year": 2015,
+    "singers": [
+      "Sonu Nigam"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Romantic Hits",
+    "year": 2018,
+    "singers": [
+      "Arijit Singh",
+      "Shreya Ghoshal"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Unplugged Classics",
+    "year": 2020,
+    "singers": [
+      "Rahat Fateh Ali Khan"
+    ]
+  }
+]
